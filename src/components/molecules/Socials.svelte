@@ -4,10 +4,10 @@
 </script>
 
 <div class="socials-container">
-	<Social icon="github" tip="xafn" link="https://github.com/xafn" />
+	<Social icon="github" tip="jannodevs" link="https://github.com/jannodevs" />
 	<Social icon="discord" tip={user.username} link={`https://discord.com/users/${user.id}`} />
-	<Social icon="email" tip="_@afn.lol" link="mailto:_@afn.lol" />
-	<Social icon="kofi" tip="affan" link="https://ko-fi.com/affan" />
+	<Social icon="email" tip="_@janno.lol" link="mailto:_@janno.lol" />
+	<Social icon="kofi" tip="janno" link="https://ko-fi.com/janno" />
 </div>
 
 <style>
