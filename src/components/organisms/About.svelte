@@ -4,7 +4,7 @@
 
 	// i didnt write this idk
 	let getAge = () => {
-		let birthDate = new Date('2007/03/24');
+		let birthDate = new Date('2006/09/05');
 		const ageMs = Date.now() - birthDate.getTime();
 		const preciseAge = (ageMs / 31536000000).toFixed(10);
 		return preciseAge;
@@ -23,14 +23,14 @@
 	<div class="text">
 		<h2>bio</h2>
 		<p>
-			Hey there, I'm afn! :] I'm a <Tooltip tip={age}
+			Hey there, I'm janno! :] I'm a <Tooltip tip={age}
 				><span>{Math.floor(Number(age))}</span></Tooltip
 			>
-			year old digital artist and graphic/UI designer based in Canada. I’ve taken art seriously since
+			year old digital artist and graphic/UI designer based in Philippines. I’ve taken art seriously since
 			<span>2017</span>, and have been doodling silly anime characters since <span>2020</span>.
 			Recently, however, I’ve grown a knack for programming. I like contributing to
 			<Tooltip tip="🤓">
-				<a href="https://github.com/xafn" target="_blank" rel="noreferrer">
+				<a href="https://github.com/jannodevs" target="_blank" rel="noreferrer">
 					<span>open source</span>
 				</a>
 			</Tooltip>
@@ -72,7 +72,7 @@
 	}
 
 	.text::before {
-		@include outlineText($content: 'afn', $translateX: 97%, $translateY: -5%, $fontSize: 300px, $opacity: 0.22);
+		@include outlineText($content: 'janno', $translateX: 97%, $translateY: -5%, $fontSize: 300px, $opacity: 0.22);
 	}
 
 	h2 {
