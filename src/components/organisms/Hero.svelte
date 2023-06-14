@@ -12,7 +12,7 @@
 
 <section id="home" class="wrapper">
 	<div>
-		<h1>afn</h1>
+		<h1>Janno</h1>
 		<h4>Hobbyist illustrator and designer. <br />Attempting to program.</h4>
 		<div class="socials">
 			<Socials />
