@@ -6,7 +6,7 @@
 <div class="socials-container">
 	<Social icon="github" tip="jannodevs" link="https://github.com/jannodevs" />
 	<Social icon="discord" tip={user.username} link={`https://discord.com/users/${user.id}`} />
-	<Social icon="email" tip="_@janno.lol" link="mailto:_@janno.lol" />
+	<Social icon="email" tip="email@janno.lol" link="mailto:email@janno.lol" />
 	<Social icon="kofi" tip="janno" link="https://ko-fi.com/janno" />
 </div>
 
