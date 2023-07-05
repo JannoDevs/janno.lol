@@ -1,13 +1,12 @@
-# 🎨 Personal Portfolio
-![mockup](https://github.com/xafn/afn.lol/assets/47723802/210e831e-0cc3-40eb-983f-a154a64c7129)
+# :octocat: Personal Portfolio
 
-A simple site to showcase the art I've made over the years. Check it out at [afn.lol](https://afn.lol/).
+A simple site to showcase the art I've made over the years. Check it out at [janno.lol](https://janno.lol/).
 
 I decided I needed to finally rewrite my site after staring at my horrid old codebase and design for so long. Made using SvelteKit and SCSS.
 
 ## 📝 Notes
 * Thanks to [Lanyard API](https://github.com/Phineas/lanyard) for exposing my Discord Rich Presence
-* Burn your eyes at [v1.afn.lol](https://v1.afn.lol/) 
+* Burn your eyes at [v1.afn.lol](https://v1.janno.lol/) 
 
 ## ☁️ Hosting
 Steps to follow if you want to replicate the hosting of this site. You may host with whatever service you prefer.
