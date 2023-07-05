@@ -6,7 +6,7 @@ I decided I needed to finally rewrite my site after staring at my horrid old cod
 
 ## 📝 Notes
 * Thanks to [Lanyard API](https://github.com/Phineas/lanyard) for exposing my Discord Rich Presence
-* Burn your eyes at [v1.afn.lol](https://v1.janno.lol/) 
+* Join to my discord server [here](https://discord.gg/smScx6avTK) 
 
 ## ☁️ Hosting
 Steps to follow if you want to replicate the hosting of this site. You may host with whatever service you prefer.
