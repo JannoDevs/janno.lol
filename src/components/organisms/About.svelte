@@ -30,7 +30,7 @@
 			<span>2017</span>, and have been doodling silly anime characters since <span>2020</span>.
 			Recently, however, I’ve grown a knack for programming. I like contributing to
 			<Tooltip tip="🤓">
-				<a href="https://github.com/jannodevs" target="_blank" rel="noreferrer">
+				<a href="https://github.com/xjanno" target="_blank" rel="noreferrer">
 					<span>open source</span>
 				</a>
 			</Tooltip>
